@@ -8,7 +8,7 @@ async function authToken(req,res,next){
 
         if (!token){
             return res.status(200).json({
-                message : "Usuario no ha iniciado sesión",
+                message : "Por favor Iniciar sesión...!",
                 error : true,
                 success : false
             })
