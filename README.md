@@ -78,7 +78,7 @@ Agradecemos a todos los colaboradores y a la comunidad de desarrolladores que ha
 | **Clonar el repositorio** | `git clone https://github.com/tecnycompu/E-Gadgets-Backend.git` |
 | **Navegar al directorio** | `cd E-Gadgets-Backend`                                       |
 | **Instalar dependencias** | `npm install`                                                |
-| **Ejecutar el proyecto**  | `npm start`                                                  |
+| **Ejecutar el proyecto**  | `npm run dev`                                                  |
 
 ## 🔗 Repositorio
 
